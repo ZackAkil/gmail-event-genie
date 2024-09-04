@@ -13,14 +13,13 @@ Event Genie is a Gmail add-on that helps you effortlessly extract potential cale
 
 ## How it Works
 
-1. **Installation:** Install the Event Genie add-on from the Google Workspace Marketplace.
-2. **Open an Email:** Open an email containing information about potential events.
-3. **Click "Extract Calendar Events":** Click the "🔍 Extract Calendar Events" button in the add-on sidebar.
-4. **Review Suggestions:** Event Genie will analyze the email content and present you with cards displaying suggested calendar events.
-5. **Add to Calendar:** Click the "📅 Add Event to Calendar" button on the card for each event you want to add.
-6. **Done!** The event will be added to your Google Calendar, and you'll see a confirmation message with a link to the event.
+1. **Open an Email:** Open an email containing information about potential events.
+2. **Click "Extract Calendar Events":** Click the "🔍 Extract Calendar Events" button in the add-on sidebar.
+3. **Review Suggestions:** Event Genie will analyze the email content and present you with cards displaying suggested calendar events.
+4. **Add to Calendar:** Click the "📅 Add Event to Calendar" button on the card for each event you want to add.
+5. **Done!** The event will be added to your Google Calendar, and you'll see a confirmation message with a link to the event.
 
-## Development Setup
+## Installation/ Development Setup
 
 This add-on is built using Google Apps Script. To get started with development:
 
