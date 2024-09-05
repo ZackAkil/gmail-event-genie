@@ -32,12 +32,3 @@ This add-on is built using Google Apps Script. To get started with development:
    - Download the service account's JSON key file.
    - Replace the placeholder values in `Auth.gs` (SERVICE_ACCOUNT object) with your service account's details.
 4. **Deploy as Gmail Add-on:** Deploy the script as a Gmail add-on from the Apps Script editor.
-
-## Usage
-
-The main functions you'll interact with are:
-
-* `loadAddOn(event)`: Initializes the add-on and displays the initial card with the "Extract Calendar Events" button.
-* `generateCalendar(event)`: Extracts potential events from the email content and generates cards with suggestions.
-* `createCalendarEvent(calendarEventDetails)`: Adds the selected event to your Google Calendar.
-
