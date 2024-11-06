@@ -2,6 +2,8 @@
 
 Event Genie is a Gmail add-on that helps you effortlessly extract potential calendar events from your emails and add them to your Google Calendar with just a few clicks. 
 
+[Read the blog post about it here](https://medium.com/google-cloud/how-to-build-a-custom-gmail-add-on-w-gemini-to-find-dates-9564e2d7d9ba)
+
 ![demo gif](event_genie_demo.gif)
 
 ## Features
